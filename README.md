@@ -5,7 +5,7 @@ Made by Bolohan Stefan-Tudor
 
 ### Project Description
 
-This project is a simple implementation of the K-means algorithm. The algorithm is used to cluster data points into a number of clusters, using sklearn library. The algorithm is implemented in Python and uses the matplotlib library to visualize the data points and the clusters. Also, it uses PCA (Principal Component Analysis) to reduce the dimension of the data and visualize the clusters in 2D and compare the results with the original data.
+This project is a simple implementation of the K-means algorithm. The algorithm is used to cluster data points into a number of clusters, using scikit-klearn library. The algorithm is implemented in Python and uses the matplotlib library to visualize the data points and the clusters. Also, it uses PCA (Principal Component Analysis) to reduce the dimension of the data and visualize the clusters in 2D and compare the results with the original data.
 
 It uses a [wine quality dataset](https://archive.ics.uci.edu/dataset/186/wine+quality), which contains 12 features and a target variable (quality). It can be found on uciml repository.
 
