@@ -9,8 +9,8 @@ This project is a simple implementation of the K-means algorithm. The algorithm 
 
 It uses a [wine quality dataset](https://archive.ics.uci.edu/dataset/186/wine+quality), which contains 12 features and a target variable (quality). It can be found on uciml repository.
 
-### Featuresding the best number of clusters using the Elbow method
-
+### Features
+- Finding the best number of clusters using the Elbow method
 - Cluster data points into a number of clusters
 - Visualize the data points and the clusters
 - Use PCA to reduce the dimensionality of the data and visualize the clusters in 2D
